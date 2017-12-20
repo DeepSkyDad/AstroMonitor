@@ -1,0 +1,8 @@
+D:\Projects\DotNet\AstroPing\AstroPing\bin\Debug\AstroPing.exe.config
+D:\Projects\DotNet\AstroPing\AstroPing\bin\Debug\AstroPing.exe
+D:\Projects\DotNet\AstroPing\AstroPing\bin\Debug\AstroPing.pdb
+D:\Projects\DotNet\AstroPing\AstroPing\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\DotNet\AstroPing\AstroPing\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\DotNet\AstroPing\AstroPing\obj\Debug\AstroPing.exe
+D:\Projects\DotNet\AstroPing\AstroPing\obj\Debug\AstroPing.pdb
+D:\Projects\DotNet\AstroPing\AstroPing\obj\Debug\AstroPing.csprojResolveAssemblyReference.cache

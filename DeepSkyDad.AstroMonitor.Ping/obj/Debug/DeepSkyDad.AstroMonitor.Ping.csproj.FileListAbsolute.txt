@@ -1,0 +1,8 @@
+D:\Projects\DotNet\DeepSkyDad.AstroMonitor\DeepSkyDad.AstroMonitor.Ping\bin\Debug\DeepSkyDad.Astromonitor.Ping.exe.config
+D:\Projects\DotNet\DeepSkyDad.AstroMonitor\DeepSkyDad.AstroMonitor.Ping\bin\Debug\DeepSkyDad.Astromonitor.Ping.exe
+D:\Projects\DotNet\DeepSkyDad.AstroMonitor\DeepSkyDad.AstroMonitor.Ping\bin\Debug\DeepSkyDad.Astromonitor.Ping.pdb
+D:\Projects\DotNet\DeepSkyDad.AstroMonitor\DeepSkyDad.AstroMonitor.Ping\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\DotNet\DeepSkyDad.AstroMonitor\DeepSkyDad.AstroMonitor.Ping\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\DotNet\DeepSkyDad.AstroMonitor\DeepSkyDad.AstroMonitor.Ping\obj\Debug\DeepSkyDad.AstroMonitor.Ping.csprojResolveAssemblyReference.cache
+D:\Projects\DotNet\DeepSkyDad.AstroMonitor\DeepSkyDad.AstroMonitor.Ping\obj\Debug\DeepSkyDad.Astromonitor.Ping.exe
+D:\Projects\DotNet\DeepSkyDad.AstroMonitor\DeepSkyDad.AstroMonitor.Ping\obj\Debug\DeepSkyDad.Astromonitor.Ping.pdb

@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstroMonitor", "DeepSkyDad.AstroMonitor\DeepSkyDad.AstroMonitor.csproj", "{142FA236-607D-4DCE-8A74-8CFC99DD9C52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepSkyDad.AstroMonitor", "DeepSkyDad.AstroMonitor\DeepSkyDad.AstroMonitor.csproj", "{142FA236-607D-4DCE-8A74-8CFC99DD9C52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepSkyDad.AstroMonitor.Ping", "DeepSkyDad.AstroMonitor.Ping\DeepSkyDad.AstroMonitor.Ping.csproj", "{F130B376-13EE-4C6B-8378-2AAD2A9E0B0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{142FA236-607D-4DCE-8A74-8CFC99DD9C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{142FA236-607D-4DCE-8A74-8CFC99DD9C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{142FA236-607D-4DCE-8A74-8CFC99DD9C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F130B376-13EE-4C6B-8378-2AAD2A9E0B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F130B376-13EE-4C6B-8378-2AAD2A9E0B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F130B376-13EE-4C6B-8378-2AAD2A9E0B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F130B376-13EE-4C6B-8378-2AAD2A9E0B0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
